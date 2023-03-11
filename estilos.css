@@ -148,8 +148,7 @@ body{
     #imagenD{
         display:flex;
         margin: 0;
-        height: 65vh;
-        object-fit: fill;
+        width: 100%;
         border-radius: 10px 0 0 10px;
     }
 
